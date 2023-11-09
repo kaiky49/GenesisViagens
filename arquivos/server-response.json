@@ -1,0 +1,84 @@
+{
+    "viagens": {
+        "destaques": [{
+                "id": 1,
+                "titulo": "Pacote Israel",
+                "subtitulo": "Aéreo + Hotel",
+                "asset": "natal-brasil",
+                "diaria": 0,
+                "hospedes": 0,
+                "precoSemDesconto": 1.000,
+                "preco": 100,
+                "cancelamento": "Cancelamento Grátis!"
+            },
+            {
+                "id": 2,
+                "titulo": "Pacote Gracia",
+                "subtitulo": "Athenas-Grecia",
+                "asset": "bonito-brasil",
+                "diaria": 0,
+                "hospedes": 0,
+                "precoSemDesconto": 1.000,
+                "preco": 100,
+                "cancelamento": "Cancelamento Grátis!"
+            },
+            {
+                "id": 3,
+                "titulo": "Pacote Dubai",
+                "subtitulo": "Dubai-EAU",
+                "asset": "porto-galinhas-brasil",
+                "diaria": 0,
+                "hospedes": 0,
+                "precoSemDesconto": 1.000,
+                "preco": 100,
+                "cancelamento": "Cancelamento Grátis!"
+            }
+        ],
+        "ofertas": [{
+                "id": 4,
+                "titulo": "Roma-Israel",
+                "subtitulo": "Caravana Italica-Israelense ",
+                "asset": "beto-carrero-brasil",
+                "diaria": 0,
+                "hospedes": 0,
+                "precoSemDesconto": 1.000,
+                "preco": 1000,
+                "cancelamento": "Cancelamento Grátis!"
+            },
+            {
+                "id": 5,
+                "titulo": "Grecia-Israel",
+                "subtitulo": "Caravana Graga-Israelense",
+                "asset": "sao-luis-brasil",
+                "diaria": 0,
+                "hospedes": 0,
+                "precoSemDesconto": 1.000,
+                "preco": 100,
+                "cancelamento": "Cancelamento Grátis!"
+            }
+        ],
+        "internacionais": [{
+                "id": 6,
+                "titulo": "Cancún All inclusive",
+                "subtitulo": "Aéreo + Hotel All Inclusive",
+                "asset": "cancun-internacional",
+                "diaria": 5,
+                "hospedes": 1,
+                "precoSemDesconto": 5.816,
+                "preco": 3.199,
+                "cancelamento": "Cancelamento Grátis!"
+            },
+            {
+                "id": 7,
+                "titulo": "Pacote Santiago",
+                "subtitulo": "Aéreo + Hospedagem",
+                "asset": "santiago-internacional",
+                "diaria": 3,
+                "hospedes": 1,
+                "precoSemDesconto": 1.895,
+                "preco": 1.327,
+                "cancelamento": "Cancelamento Grátis!"
+            }
+        ]
+    }
+}
